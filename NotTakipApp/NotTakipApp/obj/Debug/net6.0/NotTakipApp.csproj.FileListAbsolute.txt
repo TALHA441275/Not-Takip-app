@@ -1,0 +1,14 @@
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.AssemblyInfoInputs.cache
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.AssemblyInfo.cs
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\bin\Debug\net6.0\NotTakipApp.exe
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\bin\Debug\net6.0\NotTakipApp.deps.json
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\bin\Debug\net6.0\NotTakipApp.runtimeconfig.json
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\bin\Debug\net6.0\NotTakipApp.dll
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\bin\Debug\net6.0\NotTakipApp.pdb
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.dll
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\refint\NotTakipApp.dll
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.pdb
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\NotTakipApp.genruntimeconfig.cache
+C:\Users\talha\Desktop\ntb proje\NotTakipApp\NotTakipApp\obj\Debug\net6.0\ref\NotTakipApp.dll
